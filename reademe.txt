@@ -1,0 +1,7 @@
+1. We have used inbuilt readFile and writeFile methodes from node to complete this task.
+2. To achieve specific conditions javascript functions are used.
+3. Reduce function is used to find sum of total age so that we can calculate average.
+4. Filter function is used to filter out objects which have age greater than or equal to 30.
+5. To sort array in ascending order as per names we used localeCompare string functions.
+6. Try and catch blocks are used for error handling.
+7. After completion of code run commannd "node index.js" to perform executions which is specified in the code
